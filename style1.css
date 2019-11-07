@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background: #6da9af;
+}
+
+.tulisan_register {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kotak_register {
+    width: 350px;
+    background: rgb(247, 243, 243);
+    margin: 80px auto;
+    padding: 30px 20px;
+}
+
+label {
+    font-size: 11pt;
+}
+
+td {
+    padding: 10px;
+    color: rgb(8, 8, 8);
+}
+
+.tombol {
+    background: #2C97DF;
+    color: white;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 5px solid #2A80B9;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 11pt;
+}
